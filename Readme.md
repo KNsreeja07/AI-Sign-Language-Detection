@@ -1,4 +1,4 @@
-**# Sign Language Detection Model**
+# **Sign Language Detection Model**
 
 **Software :**
 
